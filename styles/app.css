@@ -224,10 +224,6 @@ body {
     padding-left: 1rem;
 }
 
-.header {
-
-}
-
 .header-top {
     display: flex;
     justify-content: space-between;
@@ -244,19 +240,11 @@ body {
     margin-right: 2rem;
 }
 
-.nav-logo__img {
-
-}
-
 .menu {
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
-}
-
-.menu__item {
-
 }
 
 .menu__link {
@@ -462,10 +450,6 @@ body {
     align-items: center;
 }
 
-.comment__img {
-
-}
-
 .comment__person {
     color: #000000;
     margin: 0 0 0 0.5rem;
@@ -491,14 +475,6 @@ body {
     padding: 5rem 0;
 }
 
-.portfolio__text {
-
-}
-
-.portfolio__title {
-
-}
-
 .portfolio-items {
     display: flex;
     flex-wrap: wrap;
@@ -520,10 +496,6 @@ body {
 }
 
 /* start Footer */
-
-.footer {
-
-}
 
 .newsletter {
     background-color: #2C57E4;
@@ -579,10 +551,6 @@ body {
     align-items: center;
     padding: 0.8rem 0;
     flex-wrap: wrap;
-}
-
-.copy-right__text {
-
 }
 
 /* Project Responsive */
